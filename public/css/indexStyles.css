@@ -1,0 +1,63 @@
+/** Start of INDEX HTML STYLES **/
+
+.display-4 {}
+
+.header {
+    padding: 60px;
+    background: #000089;
+    color: white;
+    font-size: 30px;
+
+}
+
+.display-4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+}
+
+.input-group mb-2 {
+    text-align: center;
+}
+
+body {
+    background-color: linen;
+}
+
+.contains {
+    background: linen;
+}
+
+.input-group mb-2 {}
+
+/** end of INDEX HTML styles **/
+
+/** start of HOME INDEX Styles **/
+
+.home-header {}
+
+.contains {
+    background: linen;
+}
+
+.bookie-header {
+    font-weight: bold;
+    color: yellow;
+    font-size: 25px;
+    padding-right: 30px;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: Bold;
+}
+
+/** Start of Booked.html Styles **/
+
+.Booked-Body {
+    background-color: white;
+}
+
+.Booked-img {
+    width: 30%;
+    height: auto;
+}

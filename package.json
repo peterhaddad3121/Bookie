@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-key-auth": "^0.2.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase": "^5.10.0",
+    "nodejs": "0.0.0",
+    "react-datepicker": "^2.1.0",
+    "twilio": "^3.30.1"
+  }
+}
